@@ -1,0 +1,13 @@
+# Dependencies (dev/test only)
+node_modules/
+
+# Generated test artifacts (reproducible via the test suite)
+sample-output.docx
+sample-ktv.docx
+real-ktv.docx
+real-ktv.md
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log
